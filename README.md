@@ -109,7 +109,6 @@ dataset of NO and NO₂ mole fractions across all 5 reactor stages.
 
 | File | Description |
 |---|---|
-| `NOx_PSR_simulation.ipynb` | Jupyter notebook with full simulation code |
 | `FinalProject_Combustion_Report.pdf` | Full technical report |
 
 ---
